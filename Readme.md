@@ -75,3 +75,12 @@ PD: Remember, in the test (it) delete skip methode. By default tests are skipped
 
 ### Source
 - https://codingdojo.org/kata/FizzBuzz/
+
+
+# Part 1:
+
+## Performing the kata by declaring a function
+
+# Part 2:
+
+## Performing the kata using the object-oriented paradigm.
